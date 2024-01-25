@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gamze Meryem Kaya</h1>
 <h3 align="center">I am working on projects to improve myself in C# and .NET technologies.</h3>
 
-- 🔭 I’m currently working on **developing the web and API applications for an Animal Identification and Milk Tracking System.**
+- 🔭 I’m currently learning .Net Web Development and other programming languages**
 
 - 📫 How to reach me **gamzemeryemkaya@gmail.com**
 
